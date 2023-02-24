@@ -1,19 +1,20 @@
+// import lift from "../src/assets/images/prove.png";
 const logotext = "Declan";
 const meta = {
   title: "Declan Middleton",
   description:
-    "I’m Declan Middleton _ Full stack devloper, currently working in Auckland, New Zealand",
+    "I’m Declan Middleton - Full stack devloper, currently working in Auckland, New Zealand",
 };
 
 const introdata = {
   title: "I’m Declan Middleton",
   animated: {
     first: "I love Tech",
-    second: "I code whatever I find interesting.",
+    second: "I code whatever",
     third: "I develop mobile apps",
   },
   description: "Self development shows your true colours. - Declan",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+  // your_img_url: lift,
 };
 
 const dataabout = {
@@ -23,19 +24,9 @@ const dataabout = {
 };
 const worktimeline = [
   {
-    jobtitle: "Designer of week",
-    where: "YAdfi",
-    date: "2020",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "Jamalya",
-    date: "2019",
-  },
-  {
-    jobtitle: "Designer of week",
-    where: "ALquds",
-    date: "2019",
+    jobtitle: "Self-Employed ",
+    where: "Home Office",
+    date: "2020 - 2023",
   },
 ];
 
@@ -71,87 +62,43 @@ const services = [
   {
     title: "Mobile Apps",
     description:
-      "react native is the most popular, which is what i stick with the most.",
+      "react native is the most popular, which is what i stick with the most or i use dart",
   },
   {
     title: "Web Development",
     description:
-      "using React as my foundation for any modern web application. React is suitable for most applications. This is especially my favorite.",
+      "using React as my foundation for any modern web application. ",
+  },
+  {
+    title: "Web Security ",
+    description:
+      "using latest security analytics for your application. Finding security vulnerabilities in your application.",
   },
 ];
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    desctiption: "coming soon",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    desctiption: "coming soon",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    desctiption: "coming soon",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    desctiption: "coming soon",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    desctiption: "coming soon",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-
-  {
-    img: "https://picsum.photos/400/600/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/300/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/550/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
-    desctiption:
-      "The wisdom of life consists in the elimination of non-essentials.",
+    desctiption: "coming soon",
     link: "#",
   },
 ];
@@ -159,9 +106,7 @@ const dataportfolio = [
 const contactConfig = {
   YOUR_EMAIL: "dexmiddles@protonmail.com",
   description: "Contact me short and brief. ",
-  // creat an emailjs.com account
-  // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-  YOUR_SERVICE_ID: "service_id",
+  YOUR_SERVICE_ID: "service_3zja3wi",
   YOUR_TEMPLATE_ID: "template_id",
   YOUR_USER_ID: "user_id",
 };
